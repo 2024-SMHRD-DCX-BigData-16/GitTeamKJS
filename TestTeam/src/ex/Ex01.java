@@ -10,6 +10,7 @@ public class Ex01 {
 		System.out.println("미용실 갈건데 스타일 추천좀 부탁해욥");
 		System.out.println("메롱");
 		System.out.println("메롱머린 없는데요,,,?");
+		System.out.println("삭발하자");
 		
 	}
 
